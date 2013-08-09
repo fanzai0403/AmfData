@@ -1,6 +1,6 @@
 = AmfData
 
-simple code to encode/decode the amf0/amf3 data
+Simple C# code to encode/decode the amf0/amf3 data.
 
 == Supported Types
 
