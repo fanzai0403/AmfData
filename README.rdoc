@@ -4,8 +4,8 @@ Simple C# code to encode/decode the amf0/amf3 data.
 
 == Supported Types
 
-* Amf3 - decode : 12 of 18 types, without MovieClip, Reference, Date, Recordset, XML, TypedObject
-* Amf3 - encode : null, numbers(byte, int, uint, float, double), bool, string, Array. CMixArray, IDictionary.
+* Amf0 - decode : 12 of 18 types, without MovieClip, Reference, Date, Recordset, XML, TypedObject
+* Amf0 - encode : null, numbers(byte, int, uint, float, double), bool, string, Array. CMixArray, IDictionary.
 
 * Amf3 - decode : 9 of 13 types, without XmlDoc, Date, Xml, ByteArray
 * Amf3 - encode : null, numbers(byte, int, uint, float, double), bool, string, Array, IDictionary.
